@@ -1,1 +1,2 @@
 # EpamTask6
+collection
